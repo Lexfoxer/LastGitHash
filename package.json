@@ -1,7 +1,7 @@
 {
-  "name": "LastGitHash",
+  "name": "last-git-hash",
   "version": "0.1",
-  "description": "Method for get hash checksum in current project without install git (primary using for project generating in docker).",
+  "description": "NodeJS module for get hash checksum in current project without install git (as a rule for use in project generating in docker).",
   "main": "index.js",
   "repository": "https://github.com/Lexfoxer/LastGitHash",
   "author": "Lexfoxer <mail@lexfoxer.ru>",
