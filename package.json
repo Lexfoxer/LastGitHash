@@ -3,7 +3,7 @@
   "version": "0.1",
   "description": "NodeJS module for get hash checksum in current project without install git (as a rule for use in project generating in docker).",
   "main": "index.js",
-  "repository": "https://github.com/Lexfoxer/LastGitHash",
+  "repository": "https://github.com/Lexfoxer/last-git-hash",
   "author": "Lexfoxer <mail@lexfoxer.ru>",
   "license": "MIT",
   "private": false
