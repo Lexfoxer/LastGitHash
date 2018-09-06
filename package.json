@@ -1,0 +1,10 @@
+{
+  "name": "LastGitHash",
+  "version": "0.1",
+  "description": "Method for get hash checksum in current project without install git (primary using for project generating in docker).",
+  "main": "index.js",
+  "repository": "https://github.com/Lexfoxer/LastGitHash",
+  "author": "Lexfoxer <mail@lexfoxer.ru>",
+  "license": "MIT",
+  "private": false
+}
